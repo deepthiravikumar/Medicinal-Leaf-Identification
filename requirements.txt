@@ -1,5 +1,6 @@
+streamlit
 cv2
 numpy
-streamlit
+
 tensorflow
 keras
